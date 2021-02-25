@@ -18,7 +18,7 @@ namespace ProyectoGit
             int numeroA = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrse un segundo numero:");
             int numeroB = int.Parse(Console.ReadLine());
-            Console.WriteLine(numeroA+numeroB);
+            Console.WriteLine("la suma de "+numeroA+" + "+numeroB+" = "+(numeroA+numeroB));
             Console.ReadKey();
         }
     }
