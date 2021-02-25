@@ -1,0 +1,7 @@
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\bin\Debug\ProyectoGit.exe.config
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\bin\Debug\ProyectoGit.exe
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\bin\Debug\ProyectoGit.pdb
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\obj\Debug\ProyectoGit.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\obj\Debug\ProyectoGit.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\obj\Debug\ProyectoGit.exe
+C:\Users\windows\Desktop\ProyectoGit\ProyectoGit\obj\Debug\ProyectoGit.pdb
