@@ -12,6 +12,8 @@ namespace ProyectoGit
         {
             Console.WriteLine("Mensaje 1");
             Console.ReadKey();
+            Console.WriteLine("Mensaje 2");
+            Console.ReadKey();
         }
     }
 }
